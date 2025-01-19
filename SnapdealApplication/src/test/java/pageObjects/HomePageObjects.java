@@ -23,6 +23,10 @@ public class HomePageObjects extends BaseClass {
 		boolean result=logo.isDisplayed();
 		return result;
 	}
+	public void clickLogo()
+	{
+		logo.click();
+	}
 	public void inputSearchBar(String value)
 	{
 		search_bar.click();
