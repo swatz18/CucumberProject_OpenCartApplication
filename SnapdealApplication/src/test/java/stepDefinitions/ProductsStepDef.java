@@ -110,6 +110,7 @@ public class ProductsStepDef {
 		sp.clickStartShopping();
 		hp=new HomePageObjects(Base.getDriver());
 		hp.clickLogo();
+		System.out.println("Back to Homepage");
 	}
 	
 }
