@@ -29,6 +29,12 @@ public class AddPlaceGoogleResponse {
 		this.accuracy = accuracy;
 	}
 
+	
+
+	public List<String> getTypes() {
+		return types;
+	}
+
 	public void setTypes(List<String> types) {
 		this.types = types;
 	}
