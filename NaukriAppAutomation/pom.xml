@@ -5,11 +5,13 @@
   <version>0.0.1-SNAPSHOT</version>
    <dependencies>
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
-    <version>4.27.0</version>
+    <version>4.28.1</version>
 </dependency>
+
 <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
 <dependency>
     <groupId>io.cucumber</groupId>
