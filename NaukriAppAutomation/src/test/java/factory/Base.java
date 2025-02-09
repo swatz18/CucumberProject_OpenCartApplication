@@ -32,7 +32,7 @@ public static WebDriver initilizeBrowser() throws IOException
 		//os
 		 switch (os) {
          case "windows":
-             capabilities.setPlatform(Platform.WINDOWS);
+             capabilities.setPlatform(Platform.WIN11);
              break;
          case "mac":
              capabilities.setPlatform(Platform.MAC);
