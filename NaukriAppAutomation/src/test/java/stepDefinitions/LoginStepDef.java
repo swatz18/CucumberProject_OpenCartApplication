@@ -1,6 +1,6 @@
 package stepDefinitions;
 
-import static org.testng.Assert.*;
+import static org.junit.Assert.*;
 
 import java.time.Duration;
 
